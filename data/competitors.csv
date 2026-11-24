@@ -1,0 +1,17 @@
+product_id,competitor_name,competitor_price,observed_date
+PRD001,Flipkart Grocery,440.0,2026-11-20
+PRD001,Amazon India,465.0,2026-11-21
+PRD001,Blinkit Quick,450.0,2026-11-22
+PRD002,Amazon India,1449.0,2026-11-20
+PRD002,Flipkart,1499.0,2026-11-21
+PRD002,Croma Retail,1549.0,2026-11-22
+PRD002,Reliance Digital,1480.0,2026-11-22
+PRD003,Amazon India,2399.0,2026-11-20
+PRD003,Flipkart,2449.0,2026-11-21
+PRD003,Croma Retail,2599.0,2026-11-22
+PRD004,Amazon India,749.0,2026-11-20
+PRD004,Flipkart,780.0,2026-11-21
+PRD004,DMart Ready,720.0,2026-11-22
+PRD005,Amazon India,1799.0,2026-11-20
+PRD005,Myntra,1949.0,2026-11-21
+PRD005,Ajio Luxe,1850.0,2026-11-22
